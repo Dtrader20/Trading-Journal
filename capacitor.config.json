@@ -1,0 +1,6 @@
+{
+  "appId": "com.dtrader20.tradejournal",
+  "appName": "Trade Journal Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
